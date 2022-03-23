@@ -10,6 +10,7 @@
 .checked-item {
   margin-left: 10px;
   text-decoration: line-through;
+  color: rgb(134, 134, 134);
 }
 
 .container{
@@ -53,4 +54,10 @@
 }
 .delete:hover{
   background: var(--color-black-variant);
+}
+
+.finalizados{
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
 }
